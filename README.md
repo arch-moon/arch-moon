@@ -1,3 +1,5 @@
+<h2 align=center>GitHub logs - Arch Moon</h2>
+
 ```bash
 # Arch Moon - GitHub v2.0
 # Welcome guys, this is where my falls are recorded.
@@ -23,3 +25,5 @@ and also future projects that I will leave here on this platform."
 "Javascript"
 "Typescript"
 ```
+
+<i>Never Stop learning - Coffee and Programming - Mathematics </i>

@@ -1,16 +1,25 @@
-### Hi there 👋
+```fish
+# Welcome guys, this is where my falls are recorded.
+# Arch Moon - GitHub v2.0
 
-<!--
-**arch-moon/arch-moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[23:31:07] archmoon@archlinux ~/github/profile
+> gcc -Wall profile.c -o profile; ./profile
+"Hello, my nickname is Arch Moon."
 
-Here are some ideas to get you started:
+"In short, I'm a boy who wants to see life from another angle,
+and programming allows me to do that."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"I'm currently focused on relearning programming from scratch.
+I will record all my evolution in a diary,
+which will later be published as my portfolio,
+and also future projects that I will leave here on this platform."
+
+"See you in the next chapters."
+
+[23:41:07] archmoon@archlinux ~/github/profile
+> gcc -Wall language.c -o language; ./language
+"C"
+"C++"
+"Javascript"
+"Typescript"
+```

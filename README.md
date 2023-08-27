@@ -1,6 +1,6 @@
-```fish
-# Welcome guys, this is where my falls are recorded.
+```bash
 # Arch Moon - GitHub v2.0
+# Welcome guys, this is where my falls are recorded.
 
 [23:31:07] archmoon@archlinux ~/github/profile
 > gcc -Wall profile.c -o profile; ./profile

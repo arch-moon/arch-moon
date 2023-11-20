@@ -25,5 +25,6 @@
       - Elixir
       - Fortran
 ## Contact
-  - Gmail: <a href='mailto:ikidon.cc@gmail.com' target='_black'>ikidon.cc@gmail.com</a>
-  - Instagram: <a href='https://www.instagram.com/ikidon.cc/' target='_black'>ikidon.cc</a>
+  - **Gmail**: <a href='mailto:ikidon.cc@gmail.com' target='_black'>ikidon.cc@gmail.com</a>
+  - **Instagram**: <a href='https://www.instagram.com/ikidon.cc/' target='_black'>ikidon.cc</a>
+  - **LinkdIn**: comming soon
